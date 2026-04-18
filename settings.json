@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
+    "ip": "lyceumvos.aternos.me",
+    "port": 29426,
     "version": "",
     "try-creative": false
   },
