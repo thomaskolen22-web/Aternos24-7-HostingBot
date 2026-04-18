@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "lyceumvos.aternos.me",
-    "port": 29426,
+    "ip": "lyceumvostest.aternos.me",
+    "port": 14847,
     "version": "",
     "try-creative": false
   },
